@@ -2,10 +2,7 @@
 ---
 
 ##             Successful Referral
-## Successful Referral
 
-
-## Problem Description 
 # Problem Description 
 Create an API for user signup with referral code tracking, where a referral is
 considered successful only after the user completes their profile.
